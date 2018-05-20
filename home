@@ -1,0 +1,229 @@
+
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="de"> <!--<![endif]-->
+  <head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>Binary Molecule - Software-Entwicklung und Projektberatung</title>
+  <meta name="description" content="Wir unterstützen Sie bei der Konzeption, Planung und Umsetzung Ihrer iOS-, Android-, Web- und Desktop-Projekte.
+">
+
+  <link rel="stylesheet" href="/css/main.css">
+  <link rel="canonical" href="http://www.binarymolecule.com/">
+  <link rel="alternate" type="application/rss+xml" title="Binary Molecule - Software-Entwicklung und Projektberatung" href="http://www.binarymolecule.com/feed.xml">
+
+  <meta name="google-site-verification" content="EzmPBjyNDSP1Lv8Vm1P9lbU87tY7OHNMUI0P2pAKntw" />
+
+  <link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700' rel='stylesheet' type='text/css'>
+
+  <script src="/modernizr-2.6.2.min.js"></script>
+</head>
+
+
+  <body>
+
+    <!--[if lt IE 7]>
+    <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+<![endif]-->
+
+
+    <div id="container">
+  <div class="section hero">
+    <div class="nodegarden-container"></div>
+    <div class="container">
+      <div class="row">
+        <div class="one-half column">
+          <p><img src="/logo.png" width="260"></p>
+          <h4 class="hero-heading">Software-Entwicklung und Projektberatung</h4>
+          <p>Wir unterstützen Sie bei der Konzeption, Planung und Umsetzung Ihrer iOS-, Android-, Web- und Desktop-Projekte.
+</p>
+        </div>
+        <div class="one-half column phones">
+          <img class="phone" src="images/iphone.png">
+          <img class="phone" src="images/iphone.png">
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="section values">
+    <div class="container">
+      <div class="row">
+        <div class="one-third column value">
+          <h4>Dienstleistungen</h4>
+          <p>Wir verstehen uns nicht als Full-Service-Agentur, sondern als Projekt-Partner. Unser Ziel ist es, mit Ihnen zusammen Projekte erfolgreich umzusetzen.</p>
+          <p>Dabei unterstützen wir Sie in allen Bereichen:</p>
+          <ul>
+            <li>Ideenfindung</li>
+            <li>Konzeption</li>
+            <li>Planung</li>
+            <li>Umsetzung</li>
+            <li>Retrospektive</li>
+          </ul>
+          <p>
+            Bei der Suche nach Interface-Designern helfen wir Ihnen natürlich auch gerne weiter,
+            indem wir Kontake zu Agenturen herstellen, mit denen wir in anderen Projekten sehr positive Erfahrungen gesammelt haben.
+          </p>
+        </div>
+        <div class="one-third column value">
+          <h4>Kunden</h4>
+          <p>Wir beraten und arbeiten mit Kunden aus den unterschiedlichsten Bereichen: Verlage, Reiseunternehmen, öffentlicher Rundfunk sowie Halbleiterhersteller.</p>
+          <ul class="inline p">
+            
+            
+              <li>Contract Road Management</li>
+            
+              <li>Deutsche Bahn AG</li>
+            
+              <li>G+J Digital Products</li>
+            
+              <li>G+J Parenting Media</li>
+            
+              <li>Gebeco</li>
+            
+              <li>Hansapark</li>
+            
+              <li>Intel</li>
+            
+              <li>Kiel-Marketing</li>
+            
+              <li>Kleinhempel</li>
+            
+              <li>New Audio Technology</li>
+            
+              <li>Number Four</li>
+            
+              <li>Pebble Technology</li>
+            
+              <li>Phi Mobile Media Services</li>
+            
+              <li>Precious</li>
+            
+              <li>Reschke Productions</li>
+            
+              <li>SWR</li>
+            
+              <li>Schjærven Film</li>
+            
+              <li>Z1 Immobilien Gesellschaft</li>
+            
+          </ul>
+          <p>
+            Wir freuen uns, auch mit Ihnen zusammen Projekte erfolgreich abzuschließen.
+          </p>
+        </div>
+        <div class="one-third column value">
+          <h4>Technologie</h4>
+          <p>Unser Team hat ein breites Wissen über aktuelle Technologien und <q>spricht</q> mehrere Sprachen.</p>
+          <p>So können wir Sie stets bestens beraten und uns Ihren Anforderungen anpassen.</p>
+          <ul class="inline p">
+            
+              <li>JavaScript</li>
+            
+              <li>C#</li>
+            
+              <li>Kotlin</li>
+            
+              <li>Swift</li>
+            
+              <li>Objective-C</li>
+            
+              <li>Ruby</li>
+            
+              <li>Go</li>
+            
+              <li>CoffeeScript</li>
+            
+              <li>TypeScript</li>
+            
+              <li>Less</li>
+            
+              <li>Sass/Scss</li>
+            
+              <li>Jade</li>
+            
+              <li>Stylus</li>
+            
+              <li>jQuery</li>
+            
+              <li>Java</li>
+            
+              <li>Angular.js</li>
+            
+              <li>Android</li>
+            
+              <li>iOS</li>
+            
+              <li>Unity</li>
+            
+              <li>D3</li>
+            
+              <li>Knockout.js</li>
+            
+              <li>Xamarin</li>
+            
+              <li>Docker</li>
+            
+              <li>AWS</li>
+            
+              <li>S3</li>
+            
+              <li>EC2</li>
+            
+              <li>Ansible</li>
+            
+          </ul>
+          <p>Sprechen Sie uns gerne an, wenn Sie eine Evaluation einer anderen Technologie benötigen.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="section">
+    <div class="container">
+      <ul class="inline-md p">
+        <li>Alte Lübecker Chaussee 2</li>
+        <li>24114 Kiel</li>
+        <li>Deutschland</li>
+      </ul>
+      <div class="p">
+        <ul class="inline-md">
+          <li><strong>E-Mail</strong> <a href="mailto:info@binarymolecule.com">info@binarymolecule.com</a></li>
+          <li><strong>Telefon</strong> <a href="tel:+4943126098621">+49&nbsp;431&nbsp;9973&nbsp;5512</a></li>
+        </ul>
+        <ul class="inline-md">
+          <li><strong>Vertretungsberechtigte</strong>&nbsp;Marcel&nbsp;Jackwerth &amp; Jörg&nbsp;Brüggemann</li>
+          <li><strong>Gerichtsstand</strong>&nbsp;Kiel</li>
+        </ul>
+        <ul class="inline-md">
+          <li><strong>USt-IdNr.</strong>&nbsp;DE299011008</li>
+          <li><strong>Handelsregisternummer</strong> HRB&nbsp;16505&nbsp;KI</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="js/vendor/jquery-1.10.2.min.js"><\/script>')</script>
+<script src="/nodegarden.js"></script>
+
+<script>
+    (function(b,o,i,l,e,r){b.GoogleAnalyticsObject=l;b[l]||(b[l]=
+    function(){(b[l].q=b[l].q||[]).push(arguments)});b[l].l=+new Date;
+    e=o.createElement(i);r=o.getElementsByTagName(i)[0];
+    e.src='//www.google-analytics.com/analytics.js';
+    r.parentNode.insertBefore(e,r)}(window,document,'script','ga'));
+    ga('create','UA-68162278-1');ga('send','pageview');
+</script>
+
+
+  </body>
+
+</html>
